@@ -1,5 +1,6 @@
 # Coffee-Sales-Dashboard
 ☕ Coffee Sales Dashboard – Power BI
+
 📌 Project Overview
 
 The Coffee Sales Dashboard is an interactive Power BI project designed to analyze sales performance and customer purchasing behavior for a coffee business.
